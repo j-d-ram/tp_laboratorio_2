@@ -1,0 +1,14 @@
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Archivos\obj\Debug\Archivos.pdb

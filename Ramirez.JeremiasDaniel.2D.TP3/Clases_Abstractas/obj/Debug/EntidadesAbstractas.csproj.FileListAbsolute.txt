@@ -1,0 +1,14 @@
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\Excepciones.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\Excepciones.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\EntidadesAbstractas.pdb

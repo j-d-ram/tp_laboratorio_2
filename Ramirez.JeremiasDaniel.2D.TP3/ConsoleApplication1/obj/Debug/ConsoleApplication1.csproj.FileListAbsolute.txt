@@ -1,0 +1,28 @@
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\Users\jynxdotcom\Documents\backup labII-progII 2017\tp 2017\tp3\Ramirez.JeremiasDaniel.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

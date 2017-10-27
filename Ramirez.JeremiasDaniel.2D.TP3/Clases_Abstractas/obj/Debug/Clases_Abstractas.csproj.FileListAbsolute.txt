@@ -1,0 +1,4 @@
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\Clases_Abstractas.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\bin\Debug\Clases_Abstractas.pdb
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.dll
+C:\Users\jynxdotcom\Documents\tp3_labII\Ramirez.JeremiasDaniel.2D.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.pdb
